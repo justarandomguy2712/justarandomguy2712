@@ -10,5 +10,5 @@
 * 💤 Sleeping
 * ❤️ Sports
 
-* [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=justarandomguy2712&show_icons=true&theme=radical)](https://github.com/justarandomguy2712)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=justarandomguy2712&show_icons=true&theme=radical)](https://github.com/justarandomguy2712)
 
