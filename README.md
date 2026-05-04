@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**justarandomguy2712/justarandomguy2712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there, I'm Nguyen Manh Ha
+## About Me
+* 🌟 **Name:** Nguyen Manh Ha
+* 💼 **Current Role:** Student
+* 🎓 **Education:** Currently studying at Academy of Cryptography Techniques (ACTVN) aka KMA
+* 🌐 **Location:** Hanoi, Vietnam
+## Hobbies & Interests
+* 🎮 Gaming
+* 🍴 Eating
+* 💤 Sleeping
+* ❤️ Sports
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=justarandomguy2712&show_icons=true&theme=radical)](https://github.com/gquang06)
